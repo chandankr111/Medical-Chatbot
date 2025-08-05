@@ -42,11 +42,9 @@ python store_index.py
 # Finally run the following command
 python app.py
 ```
+![alt text](https://github.com/chandankr111/Medical-Chatbot/blob/main/screenshot/Screenshot%202025-08-05%20180657.png)
 
-Now,
-```bash
-open up localhost:
-```
+
 
 
 ### Techstack Used:
